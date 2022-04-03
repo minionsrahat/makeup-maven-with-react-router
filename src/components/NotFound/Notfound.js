@@ -1,13 +1,14 @@
 import React from 'react';
 
-const About = () => {
+const Notfound = () => {
     return (
         <div>
+            
             <h3>
-                Hello this is about page
+                404 Nothing Found
             </h3>
         </div>
     );
 };
 
-export default About;
+export default Notfound;
