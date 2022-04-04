@@ -40,3 +40,12 @@
     width: 400px;
     height: 500px;
 }
+
+
+
+@media only screen and (max-width: 600px) {
+    .feature-img{
+        width: 337px;
+       
+    }
+  }
