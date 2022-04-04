@@ -13,6 +13,7 @@ const Notfound = () => {
                 <div className="row">
                     <div className="col-md-12">
                         <div className="error-template">
+                            <img src="https://media0.giphy.com/media/xTiN0L7EW5trfOvEk0/giphy.gif?cid=ecf05e47p041qy8rl3jpr0ll1kmtoyxmwa95w5x151ox5ckm&rid=giphy.gif&ct=g" alt="" />
                             <h1>
                                 Oops!</h1>
                             <h2>

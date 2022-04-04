@@ -1,0 +1,26 @@
+
+.about-us{
+    background-image: url(https://s3-ap-southeast-1.amazonaws.com/myglamm.com/content/file-1505123624624-blobid1505123691780.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 670px;
+}
+.about-us-details {
+    color: white;
+    text-align: justify;
+}
+.about-us-details h2{
+    font-size: 40px;
+}
+.about-us-details p{
+    font-size: 20px;
+}
+.border-line{
+    width: 210px;
+    height: 8px;
+    background: #e00085;
+    margin: auto;
+    margin-bottom: 20px;
+}

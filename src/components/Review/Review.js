@@ -24,7 +24,7 @@ const Review = (props) => {
                         <Rating
                             initialRating={rating}
                             emptySymbol={<FontAwesomeIcon icon={faStar} />}
-                            fullSymbol={<FontAwesomeIcon style={{ color: 'goldenrod' }} icon={faStar} />}
+                            fullSymbol={<FontAwesomeIcon style={{ color: '#e00085' }} icon={faStar} />}
                             readonly
                         ></Rating>
                     </div>
