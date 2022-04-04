@@ -1,8 +1,9 @@
 import React from 'react';
 import './Home.css';
-import useReviews from '../Hooks/Hooks';
+
 import Review from '../Review/Review';
 import {NavLink, useNavigate } from 'react-router-dom';
+import useReviews from '../Hooks/ReviewsData';
 const Home = () => {
     const [reviews, setReviews]=useReviews();
     const navigate=useNavigate();
