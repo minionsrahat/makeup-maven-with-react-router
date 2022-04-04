@@ -13,7 +13,7 @@ const Header = () => {
                  </button>
                  <div className="collapse navbar-collapse" id="collapsibleNavId">
                      <ul className="navbar-nav mx-auto py-3">
-                         <li className="nav-item active">
+                         <li className="nav-item">
                          <NavLink to='/' className="nav-link">Home</NavLink>
                          </li>
                          <li className="nav-item">
